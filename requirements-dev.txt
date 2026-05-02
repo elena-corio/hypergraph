@@ -1,0 +1,9 @@
+matplotlib
+ipykernel
+ipywidgets
+pandas
+networkx
+pydot
+plotly
+scikit-learn
+requests

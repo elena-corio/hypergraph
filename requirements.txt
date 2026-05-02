@@ -1,0 +1,6 @@
+streamlit
+fastapi
+pydantic
+pythonnet
+python-dotenv
+uvicorn[standard]
